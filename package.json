@@ -1,7 +1,7 @@
 {
   "name": "@pepco/nodejs-rest-sdk",
   "version": "0.1.0",
-  "description": "NodeJS package to connect your application to Pasargad's Internet Payment Gateway through RESTful API",
+  "description": "NodeJS package to connect your application to Pasargad Bank Internet Payment Gateway through RESTful API",
   "homepage": "https://github.com/pepco-api/nodejs-rest-sdk-sdk",
   "repository": {
     "type": "git",
@@ -23,8 +23,6 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.1",
-    "request": "^2.87.0",
-    "request-promise": "^4.2.6",
     "rsa-xml": "^0.1.5"
   },
   "bugs": {
