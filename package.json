@@ -1,6 +1,6 @@
 {
   "name": "@pepco/nodejs-rest-sdk",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "description": "NodeJS package to connect your application to Pasargad Bank Internet Payment Gateway through RESTful API",
   "homepage": "https://github.com/pepco-api/nodejs-rest-sdk-sdk",
   "repository": {
